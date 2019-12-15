@@ -2,10 +2,13 @@
   "name": "four-card-feature-section",
   "version": "1.0.0",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.0.2"
   },
   "scripts": {
-    "watch": "node-sass --watch -o ./dist ./scss/main.scss"
+    "watch": "gulp watch"
   },
   "author": "Mohamed ELIDRISSI",
   "license": "MIT"
