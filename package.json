@@ -1,0 +1,12 @@
+{
+  "name": "four-card-feature-section",
+  "version": "1.0.0",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "scripts": {
+    "watch": "node-sass --watch -o ./dist ./scss/main.scss"
+  },
+  "author": "Mohamed ELIDRISSI",
+  "license": "MIT"
+}
